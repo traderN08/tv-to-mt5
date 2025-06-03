@@ -1,4 +1,4 @@
-# TV-to-MT5 Webhook System
+# TradingView-to-MT5 Webhook System
 
 This project allows you to receive TradingView alerts via webhook and execute trades on MetaTrader 5 using Python.
 
